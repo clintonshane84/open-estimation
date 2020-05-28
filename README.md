@@ -1,12 +1,12 @@
-# open-estore
+# open estimation
 
-Open-estore-core provides a backend to administrate products and allows the user to use various modules on top of the product data to meet different ecommerce requirements. These are delivered as extensions or modules to the system. This project is the core system and does not include the modules.
+Open estimation was born out of the need for a tool to assist developers in providing more accurate estimations. The system will host projects that contain various elements including a project work breakdown tool to assist in breaking the project down into small bite size tasks visually and easily. Our tool seeks to simplify and automate this process as much as possible to enable the user to deliver quick and accurate estimations.
 
 ## Install & Setup Local Development Environment
 
 ### Windows 7, 8, 10 Home
 
-[https://github.com/clintonshane84/open-estore-core/blob/master/docs/laravel-install-windows-7-8-10_home.md](https://github.com/clintonshane84/open-estore-core/blob/master/docs/laravel-install-windows-7-8-10_home.md)
+[https://github.com/clintonshane84/open-estimation/blob/master/docs/laravel-install-windows-7-8-10_home.md](https://github.com/clintonshane84/open-estimation/blob/master/docs/laravel-install-windows-7-8-10_home.md)
 
 The following database engines can be used with this project:
 
@@ -23,3 +23,4 @@ This projects utilizes several frameworks for the different technologies includi
 
 - Laravel
 - VueJS
+
