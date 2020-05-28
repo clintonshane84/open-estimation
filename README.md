@@ -8,7 +8,7 @@
 ![jenkins tests](https://img.shields.io/jenkins/tests?compact_message)
 ![license](https://img.shields.io/github/license/clintonshane84/open-estimation)
 
-Open estimation was born out of the need for a tool to assist developers in providing more accurate estimations. The system will host projects that contain various elements including a work breakdown tool to assist in breaking the project down into small bite size tasks visually and easily. Our goal is to simplify the process of estimating a project as much as possible to enable the user to deliver quick and accurate estimations.
+Open estimation was born out of the need for a tool to assist developers in providing more accurate estimations and quickly. It will feature a work breakdown tool that will assist the user in compiling all the tasks and using this data generate estimations using various methodologies made available.
 
 ## Install & Setup Local Development Environment
 
