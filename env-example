@@ -1,11 +1,10 @@
 # save me as .env
-APP_NAME=open-estore-core
-APP_ENV=dev
-APP_KEY=209cb00c66e5876ff2217de04d01a3c9
+APP_NAME=open-estimation
+APP_ENV=local
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=todo
+DB_DATABASE=default
 DB_USERNAME=default
 DB_PASSWORD=secret
