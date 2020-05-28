@@ -6,6 +6,7 @@
 ![enter image description here](https://img.shields.io/github/package-json/v/clintonshane84/open-estimation/master)
 ![enter image description here](https://img.shields.io/jenkins/build)
 ![jenkins tests](https://img.shields.io/jenkins/tests?compact_message)
+[![composer.lock](https://poser.pugx.org/phpunit/phpunit/composerlock)](//packagist.org/packages/phpunit/phpunit)
 ![license](https://img.shields.io/github/license/clintonshane84/open-estimation)
 
 Open estimation was born out of the need for a tool to assist developers in providing more accurate estimations and quickly. It will feature a work breakdown tool that will assist the user in compiling all the tasks and using this data to generate estimations using various methodologies.
