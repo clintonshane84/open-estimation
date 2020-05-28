@@ -1,4 +1,7 @@
+
 # open estimation
+
+![open estimation logo](/public/img/open-estimation-logo.png)
 
 Open estimation was born out of the need for a tool to assist developers in providing more accurate estimations. The system will host projects that contain various elements including a work breakdown tool to assist in breaking the project down into small bite size tasks visually and easily. Our goal is to simplify the process of estimating a project as much as possible to enable the user to deliver quick and accurate estimations.
 
@@ -23,4 +26,3 @@ This projects utilizes several frameworks for the different technologies includi
 
 - Laravel
 - VueJS
-
