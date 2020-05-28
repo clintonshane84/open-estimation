@@ -1,0 +1,181 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+	width: 100wh;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-flow: row nowrap;
+}
+
+.flex-lists {
+    position: relative;
+    display: flex;
+    padding: 1rem;
+    height: 100%;
+    align-items: baseline;
+    align-content: flex-start;
+    justify-content: flex-start;
+    flex-flow: row nowrap;
+    background-color: rgb(0, 128, 128);
+    overflow-x: scroll;
+}
+
+.t-list-header input {
+    background-color: rgb(0, 128, 128);
+    color: #fff;
+    border: none;
+    text-align: center;
+}
+
+.flex-list-child {
+	flex-grow: 0;
+	background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.main-app {
+	width: 100vh;
+	height: 100vw;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+    width: 100%;
+}
+
+.title {
+    font-size: 4rem;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.m-a-1 {
+	margin: 1rem;
+}
+
+.m-a-2 {
+	margin: 2rem;
+}
+
+.m-a-3 {
+	margin: 3rem;
+}
+
+.m-r-1 {
+	margin-right: 1rem;
+}
+
+.m-r-2 {
+	margin-right: 2rem;
+}
+
+.p-a-1 {
+	padding: 1rem;
+}
+
+.p-a-2 {
+	padding: 2rem;
+}
+
+.p-a-3 {
+	padding: 3rem;
+}
+
+.p-r-1 {
+	padding-right: 1rem;
+}
+
+.p-r-2 {
+	padding-right: 2rem;
+}
+
+.p-r-3 {
+	padding-right: 3rem;
+}
+
+.p-l-1 {
+	padding-left: 1rem;
+}
+
+.p-l-2 {
+	padding-left: 2rem;
+}
+
+.p-l-3 {
+	padding-left: 3rem;
+}
+
+.p-t-1 {
+    padding-top: 1rem;
+}
+
+.p-t-2 {
+    padding-top: 2rem;
+}
+
+.p-t-3 {
+    padding-top: 3rem;
+}
+
+.m-t-1 {
+    margin-top: 1rem;
+}
+
+.m-t-2 {
+    margin-top: 2rem;
+}
+
+.m-t-3 {
+    margin-top: 3rem;
+}
+
+.modal {
+  display: none;
+}
+
+.modal.is-open {
+    display: block;
+    position: absolute;
+    width: vh;
+    height: vw;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.modal.is-open .modal-win {
+    margin : 0 auto;
+    max-width: 60rem;
+    min-width: 50rem;
+}
+
+.modal.is-open .modal-win, .modal.is-open .modal-content form {
+    background-color: #fff;
+    color: #000;
+}

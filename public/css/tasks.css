@@ -1,0 +1,36 @@
+.t-list-container {
+	min-width: 32rem;
+	margin: 15px;
+}
+.t-list-container ul {
+	list-style-type: none;
+	border: 1px solid #008080;
+	padding: 1rem;
+	border-radius: 0.5rem;
+}
+.t-list-container li {
+	display: flex;
+	justify-content: flex-start;
+	text-align: left;
+	flex-direction: row;
+	text-align: left;
+	flex-wrap: wrap;
+	padding: 1rem;
+    background-color: lightblue;
+    border-radius: 0.25rem;
+    margin-top: 1.25rem;
+}
+
+.t-list-container li input {
+	border: none;
+}
+
+.t-list-container li input[type='hidden'] {
+	background-color: #000;
+}
+
+.t-list-header {
+    border: 1px solid #008080;
+    background-color: #008080;
+    color: #fff;
+}
